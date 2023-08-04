@@ -1,0 +1,3 @@
+# 工程简介
+protobuf生成Java类的demo
+将定义好的proto文件放在proto目录下，在idea中点击Maven 插件中的protobuf，触发编译

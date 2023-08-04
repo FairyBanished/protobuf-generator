@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_package = "com.fairy";
+
+message Address {
+    string province = 1;
+    string city = 2;
+    string county = 3;
+    string town = 4;
+    string village = 5;
+}
+
